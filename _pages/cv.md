@@ -11,30 +11,70 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Computer Engineering, Polytechnic University of Bari, 2016
+* Visiting Student, Delft University of Technology, 2018
+* M.S. in Computer Science, Polytechnic University of Bari, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2010 - February 2018: Software Engineer
+  * Stasbranger SRL
+  * Duties included:
+      * Full stack developer
+      * Agile developing
+      * CI/CD
+      * Docker
+      * Java EE
+      * Spring Framework
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February 2017 - June 2017: Data Analysist & Full Stack Developer
+  * SisInfLab c/o Polytechnic University of Bari
+  * Supervisor: Professor Tommaso Di Noia
+  * Duties included:
+    * ontology design
+    * data mapping
+    * data visualization
+    * web-app to query data by SPARQL engine
+
+* June 2015 - October 2015: Software Engineer & Mobile Developer
+    * Daiichi Sankyo Italy
+    * Supervisor: Arianna Tota  c\o WeMe Studio
+    * Duties included:
+        * design and implementation an Android app (432Hearts)
+        * design and implementation a CRM to manage app content
+        * exploit audio framework SuperPowered
+
+* December 2014 - December 2017: Mobile & Full Stack Developer
+    * DiCanio snc
+    * Duties included:
+        * Full stack developer
+        * Docker
+        * Developing Android Apps
+        * Infrastructure managing
+
+* January 2014 - October 2014: Full Stack Developer
+    * SisInfLab c/o Polytechnic University of Bari
+    * Supervisor: Professor Tommaso Di Noia
+    * Duties included:
+        * ontology design
+        * exploit Apache Jena
+        * data modeling and data mapping by D2RQ
+        * web app interface with AngulrJS
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Java
+* Databases
+    * MySQL
+    * MongoDB
+    * Cassandra
+* Python
+* NodeJS
+* AngularJS
+* Docker
+* Android
+* CI/CD
+* Machine Learning
 
 Publications
 ======
