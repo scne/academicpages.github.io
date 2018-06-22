@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Claudio Pomo"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Claudio Pomo"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://scne.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &scne
 facebook:
   username               :
   app_id                 :
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Claudio Pomo"
+  avatar           : "scne.jpeg"
+  bio              : "Nerd addicted, data and music lover"
+  location         : "Andria - Italy"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    :
+  email            : "claudio.pomo@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "claudio.pomo"
   foursquare       :
-  github           : "academicpages"
+  github           : "scne"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "claudiopomo"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/859268/claudio-pomo"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "scne"
   vine             :
   weibo            :
   xing             :
@@ -120,6 +120,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - .idea
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
